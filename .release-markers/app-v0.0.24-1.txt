@@ -1,5 +1,0 @@
-tag=app-v0.0.24-1
-name=App v0.0.24-1
-published_at=2025-09-10T15:45:54Z
-retagged_at=2026-05-24T05:46:13Z
-fix_run=2

@@ -1,5 +1,0 @@
-tag=app-v0.0.22
-name=App v0.0.22
-published_at=2025-07-29T04:12:24Z
-retagged_at=2026-05-24T05:46:13Z
-fix_run=2
